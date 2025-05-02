@@ -27,7 +27,92 @@ I'm a Tunis-based developer and designer passionate about crafting visually enga
 
 ### 🛠️ Tech Stack & Tools
 
-<div align="center"> <p style="font-weight: bold;">Scroll ➡️ to discover my tools</p> <div style="display: flex; overflow-x: auto; padding: 10px 0;"> <img src="https://skillicons.dev/icons?i=html,css,js,php,wordpress" height="40" alt="HTML CSS JS PHP WordPress" /> <img src="https://skillicons.dev/icons?i=figma,photoshop,canva" height="40" alt="Figma Photoshop Canva" /> <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" height="40" alt="React Bootstrap Tailwind" /> <img src="https://skillicons.dev/icons?i=git,github,vscode" height="40" alt="Git GitHub VSCode" /> <img src="https://skillicons.dev/icons?i=capcut" height="40" alt="CapCut" /> </div> </div>
+<div align="center"> <p><strong>🚀 Swipe ➡️ to explore my favorite tools</strong></p> <div style="display: flex; gap: 24px; overflow-x: auto; padding: 10px; white-space: nowrap;">
+<div align="center">
+  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="40" alt="Photoshop" />
+  <br/><sub>Photoshop</sub>
+</div>
+
+<div align="center">
+  <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" height="40" alt="Illustrator" />
+  <br/><sub>Illustrator</sub>
+</div>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/capcut/capcut-original.svg" height="40" alt="CapCut" />
+  <br/><sub>CapCut</sub>
+</div>
+
+<div align="center">
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="Canva" />
+  <br/><sub>Canva</sub>
+</div>
+
+<div align="center">
+  <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="GitHub" />
+  <br/><sub>GitHub</sub>
+</div>
+
+<div align="center">
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="HTML5" />
+  <br/><sub>HTML5</sub>
+</div>
+
+<div align="center">
+  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="CSS3" />
+  <br/><sub>CSS3</sub>
+</div>
+
+<div align="center">
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="JavaScript" />
+  <br/><sub>JavaScript</sub>
+</div>
+
+<div align="center">
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="React" />
+  <br/><sub>React</sub>
+</div>
+
+<div align="center">
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="Node.js" />
+  <br/><sub>Node.js</sub>
+</div>
+
+<div align="center">
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="MongoDB" />
+  <br/><sub>MongoDB</sub>
+</div>
+
+<div align="center">
+  <img src="https://cdn.simpleicons.org/wordpress/21759B" height="40" alt="WordPress" />
+  <br/><sub>WordPress</sub>
+</div>
+
+<div align="center">
+  <img src="https://cdn.simpleicons.org/elementor/92003B" height="40" alt="Elementor" />
+  <br/><sub>Elementor</sub>
+</div>
+
+<div align="center">
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" alt="Figma" />
+  <br/><sub>Figma</sub>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Avada-theme-green?style=flat&logo=wordpress" height="20" alt="Avada" />
+  <br/><sub>Avada</sub>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/BeTheme-theme-blue?style=flat&logo=wordpress" height="20" alt="BeTheme" />
+  <br/><sub>BeTheme</sub>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/The7-theme-purple?style=flat&logo=wordpress" height="20" alt="The7" />
+  <br/><sub>The7</sub>
+</div>
+</div> </div>
 
 ---
 
