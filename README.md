@@ -1,16 +1,69 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Jaafer Mnassri</h1>
+<h3 align="center">WordPress Developer | UI/UX Designer | Multimedia Creator</h3>
 
-<!--
-**jaafermnassri/jaafermnassri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.jaafermnassri.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-ff69b4?style=for-the-badge&logo=wordpress" alt="Portfolio" />
+  </a>
+  <a href="mailto:contact@jaafermnassri.com">
+    <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/jaafermnassri" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+I'm a Tunis-based developer and designer passionate about crafting visually engaging websites and digital content. With a strong foundation in WordPress development and a flair for design, I specialize in:
+
+- **Custom WordPress Development**: Building responsive and SEO-optimized websites using themes like Elementor, Avada, WoodMart, and BeTheme.
+- **UI/UX Design**: Translating designs from Figma or PSD into interactive web experiences.
+- **Multimedia Creation**: Producing compelling video ads with CapCut and AI voiceovers, and designing promotional materials using Photoshop and Canva.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+- **Languages**: HTML, CSS, JavaScript, PHP
+- **CMS**: WordPress, WooCommerce
+- **Page Builders**: Elementor, WPBakery
+- **Design Tools**: Photoshop, Canva, Figma
+- **Video Editing**: CapCut
+- **Others**: SEO Optimization, Responsive Design, RTL Support
+
+---
+
+### 📈 Stats & Achievements
+
+- 🖥️ Developed over **10** responsive websites from scratch.
+- 🎨 Created **500+** digital ads and promotional visuals.
+- 🛒 Built multiple e-commerce platforms with WooCommerce integration.
+- 🌐 Fluent in **Arabic**, **English**, and **French**.
+
+---
+
+### 📚 Certifications
+
+- **MERN Stack Certification** – GoMyCode (2022)
+- **Responsive Web Design** – freeCodeCamp (2024)
+- **JavaScript Algorithms and Data Structures** – freeCodeCamp (2025)
+- **The Complete Guide 2025 (incl. Next.js, Redux)** – Udemy (2025)
+
+---
+
+### 📫 Let's Connect
+
+- 🌐 [Website](https://www.jaafermnassri.com)
+- 📧 [Email](mailto:contact@jaafermnassri.com)
+- 📞 +216 24-441-553
+
+Feel free to reach out for collaborations, freelance projects, or just a friendly chat!
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jaafermnassri&show_icons=true&theme=radical" alt="Jaafer's GitHub stats" />
+</p>
