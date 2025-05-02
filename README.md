@@ -8,7 +8,7 @@
   <a href="mailto:contact@jaafermnassri.com">
     <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/jaafermnassri" target="_blank">
+  <a href="https://www.linkedin.com/in/jaafer-mnassri-3a2507204/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
 </p>
