@@ -27,25 +27,7 @@ I'm a Tunis-based developer and designer passionate about crafting visually enga
 
 ### 🛠️ Tech Stack & Tools
 
-<div align="center"> <p><strong>🧰 I work with a wide range of tools — scroll to explore ➡️</strong></p> <div style="display: flex; justify-content: flex-start; align-items: center; gap: 30px; overflow-x: auto; padding: 20px 0;">
-<img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="40" title="Photoshop"/>
-<img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" height="40" title="Illustrator"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Capcut_Logo.png" height="40" title="CapCut"/>
-<img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" title="Canva"/>
-<img src="https://cdn.simpleicons.org/github/181717" height="40" title="GitHub"/>
-<img src="https://cdn.simpleicons.org/html5/E34F26" height="40" title="HTML5"/>
-<img src="https://cdn.simpleicons.org/css3/1572B6" height="40" title="CSS3"/>
-<img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" title="JavaScript"/>
-<img src="https://cdn.simpleicons.org/react/61DAFB" height="40" title="React"/>
-<img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" title="Node.js"/>
-<img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" title="MongoDB"/>
-<img src="https://cdn.simpleicons.org/wordpress/21759B" height="40" title="WordPress"/>
-<img src="https://cdn.simpleicons.org/elementor/92003B" height="40" title="Elementor"/>
-<img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" title="Figma"/>
-<img src="https://img.shields.io/badge/Avada-theme-green?style=for-the-badge&logo=wordpress" height="40" title="Avada"/>
-<img src="https://img.shields.io/badge/BeTheme-theme-blue?style=for-the-badge&logo=wordpress" height="40" title="BeTheme"/>
-<img src="https://img.shields.io/badge/The7-theme-purple?style=for-the-badge&logo=wordpress" height="40" title="The7"/>
-</div> </div>
+<div align="center"> <p><strong>✨ My Creative & Development Toolbox</strong></p> <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 30px; padding: 20px;"> <img src="https://imgur.com/tnmjRTi.png" height="48" alt="Photoshop" title="Photoshop"/> <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" height="48" alt="Illustrator" title="Illustrator"/> <img src="https://imgur.com/kTjnVTa.png" height="48" alt="CapCut" title="CapCut"/> <img src="https://cdn.simpleicons.org/canva/00C4CC" height="48" alt="Canva" title="Canva"/> <img src="https://cdn.simpleicons.org/github/181717" height="48" alt="GitHub" title="GitHub"/> <img src="https://cdn.simpleicons.org/html5/E34F26" height="48" alt="HTML5" title="HTML5"/> <img src="https://cdn.simpleicons.org/css3/1572B6" height="48" alt="CSS3" title="CSS3"/> <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="48" alt="JavaScript" title="JavaScript"/> <img src="https://cdn.simpleicons.org/react/61DAFB" height="48" alt="React" title="React"/> <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="48" alt="Node.js" title="Node.js"/> <img src="https://cdn.simpleicons.org/mongodb/47A248" height="48" alt="MongoDB" title="MongoDB"/> <img src="https://cdn.simpleicons.org/wordpress/21759B" height="48" alt="WordPress" title="WordPress"/> <img src="https://cdn.simpleicons.org/elementor/92003B" height="48" alt="Elementor" title="Elementor"/> <img src="https://imgur.com/5tJfole.png" height="48" alt="Avada" title="Avada"/> <img src="https://imgur.com/oHg8T3W.png" height="48" alt="BeTheme" title="BeTheme"/> <img src="https://imgur.com/DVLtXgf.png" height="48" alt="The7" title="The7"/> <img src="https://cdn.simpleicons.org/figma/F24E1E" height="48" alt="Figma" title="Figma"/> </div> </div>
 
 ---
 
